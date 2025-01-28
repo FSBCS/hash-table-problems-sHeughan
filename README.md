@@ -10,8 +10,8 @@ For example, if the input is:
 
 <br/>
 
-3. Given a list of integers and a value `k`, return the number of continuous subarrays that sum to `k`.
-For example, if the input is `[1,1,1]` and `k=2`, the output should be `2`.
+3. Given a list of integers and a target `sum`, return the number of continuous subarrays that sum to `sum`.
+For example, if the input is `[1,1,1]` and `sum=2`, the output should be `2`.
 
 
 ## AI/Research Policy
